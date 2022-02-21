@@ -1,0 +1,14 @@
+.home-attention {
+    display: flex;
+    width: 100%;
+    height: 200px;
+    /* background-color: linear-gradient(70deg, black, white); */
+    background: linear-gradient(20deg, #CFCFCF, white);
+}
+
+.home-first {
+    display: flex;
+    width: 100%;
+    height: 300px;
+    background-color: #0033a0;
+}
